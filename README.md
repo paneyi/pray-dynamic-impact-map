@@ -4,6 +4,8 @@ Backend stored in the back folder.
 
 Frontend stored in the front folder.
 
+![Dynamic Impact Map](demo.gif)
+
 -----
 
 ## Dynamic Impact Map Specification
